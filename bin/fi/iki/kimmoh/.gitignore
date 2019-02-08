@@ -1,0 +1,9 @@
+/Main.class
+bin/*
+/Point.class
+/PointTest.class
+/Tetrahedron.class
+/TetrahedronTest.class
+/Triangle.class
+/VolumeCalculator.class
+/VolumeCalculatorTest.class
